@@ -32,7 +32,7 @@ This Backend Django project is designed to manage hotel reservations along with 
 ## How to Run:
 
 1. Make sure you have Python and Django installed on your system.
-2. Clone this repository to your local machine: git clone 
+2. Clone this repository to your local machine: git clone https://github.com/adibo32/reservation.git
 3. Navigate to the project directory.
 4. Run `python manage.py migrate` to apply migrations.
 5. Start the Django development server by running `python manage.py runserver`.
